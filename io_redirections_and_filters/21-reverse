@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "input" | reverse
+tac < nom_du_fichier
